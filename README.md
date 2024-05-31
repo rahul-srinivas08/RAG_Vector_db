@@ -1,2 +1,2 @@
 # RAG_Vector_db
-simple rag to perform on openai 
+This project involves creating a sophisticated RAG system using OpenAI's generative models, a vector database for efficient retrieval, and LangChain for adding tools and functions. Advanced retrieval techniques such as semantic chunking, prompt compression, and context rewriting are employed to improve the system's performance. Evaluation is conducted using RAGAS metrics like Precision@k and Recall@k to ensure the system's effectiveness. This approach allows for building a highly accurate and efficient RAG system suitable for various applications.
